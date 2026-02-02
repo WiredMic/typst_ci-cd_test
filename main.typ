@@ -2,4 +2,6 @@
 This is a test to see if I can build with github actions
 
 
-= Build this 
+= Build this
+
+#include "fail.typ"
